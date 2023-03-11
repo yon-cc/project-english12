@@ -47,13 +47,13 @@ html {
 
 body {
     color: #666666;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.80857;
     font-weight: normal;
     overflow-x: hidden;
-    font-family: 'Franklin Gothic Medium Cond', sans-serif;
+    /* font-family: 'Franklin Gothic Medium Cond', sans-serif; */
                                                 
-    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Poppins', sans-serif;
 }
 
 a {
@@ -509,7 +509,7 @@ button {
 .about_text {
     width: 100%;
     float: left;
-    font-size: 16px;
+    font-size: 18px;
     color: #1f1f1f;
     margin: 0px;
     padding-top: 40px;
@@ -1062,6 +1062,10 @@ button {
 .ligher-blue:visited{
     color: #53519d;
 
+}
+
+.more-pad{
+    padding-right: 50px;
 }
 
 .step2{background-image: url(../images/banners.jpg); background-position: top;}

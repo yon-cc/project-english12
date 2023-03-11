@@ -141,7 +141,7 @@
     }
     .about_text {
         padding-top: 0px;
-        font-size: 14px;
+        font-size: 16px;
     }
     .readmore_bt {
         margin-top: 30px;
@@ -211,7 +211,7 @@
     }
     .about_text {
         padding-top: 0px;
-        font-size: 14px;
+        font-size: 16px;
     }
     .readmore_bt {
         margin-top: 30px;
@@ -368,7 +368,7 @@
         padding-left: 0px;
     }
     .about_text {
-        font-size: 15px;
+        font-size: 16px;
     }
     .about_img {
         padding-top: 30px;
@@ -473,6 +473,11 @@
 }
 
 @media (max-width: 575px) {
+
+    .more-pad{
+        padding-right: 15px;
+
+    }
 
     .mar-bot{
         padding-top: 10px;
@@ -581,7 +586,7 @@
         padding-left: 0px;
     }
     .about_text {
-        font-size: 15px;
+        font-size: 16px;
     }
     .about_img {
         padding-top: 30px;
